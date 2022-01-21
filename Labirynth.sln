@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labirynth", "Labirynth\Labirynth.csproj", "{EEA5E68C-4996-40D9-A793-204AE9114F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA5E68C-4996-40D9-A793-204AE9114F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA5E68C-4996-40D9-A793-204AE9114F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA5E68C-4996-40D9-A793-204AE9114F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA5E68C-4996-40D9-A793-204AE9114F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367A1B44-51C5-48BB-9AAF-A029E1CBAC48}
+	EndGlobalSection
+EndGlobal
